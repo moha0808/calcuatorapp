@@ -1,8 +1,4 @@
-It looks like you're setting up a calculator app in Flutter! The default README is a bit sparse, so let's give it some personality and professional polish to help others (or your future self) understand what the project actually does.
 
-Since you're currently in the **GitHub editor**, you can copy and paste the following content to replace the existing text:
-
----
 
 # 📱 Calculator App
 
